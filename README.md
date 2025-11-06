@@ -218,6 +218,7 @@ To use without installing Jupyter locally:
 - Legal consequences of misuse or any malicious use of techniques learned
 
 By participating, you acknowledge understanding these terms and agree to use this knowledge ethically and legally.
+
 ---
 
 ## Additional Resources
