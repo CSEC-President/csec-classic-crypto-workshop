@@ -45,7 +45,7 @@ jupyter notebook
 
 This opens your browser at http://localhost:8888
 
-Open `vigenere_workshop.ipynb` in the file browser.
+Open `vigenere_workshop.ipynb` in the file browser and _follow the instructions_.
 
 ---
 
